@@ -1,9 +1,9 @@
 {
-    "name": "greenfieldtech-nirs/phpari",
+    "name": "ihouseit/phpari",
     "type": "library",
     "description": "A PHP Class Library for Asterisk ARI",
     "keywords": ["Asterisk", "ARI", "VoIP", "REST", "PHP"],
-    "homepage": "https://github.com/greenfieldtech-nirs/phpari",
+    "homepage": "https://github.com/ihouse/phpari",
     "license": "GPL-2.0",
     "authors": [
         {
