@@ -578,7 +578,7 @@
                 $cDirection = array('direction' => $direction);
 
 
-                $result = $this->pestObject->delete("/channels/" . $channel_id . "/unmute", $cDirection);
+                $result = $this->pestObject->delete("/channels/" . $channel_id . "/mute?direction=".rawurlencode($direction));
 
                 return $result;
 
